@@ -5,10 +5,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.snehal.io</groupId>
+<<<<<<< HEAD
   <artifactId>snehalmavenproject</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>snehalmavenproject</name>
+=======
+  <artifactId>cilabdemo</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>cilabdemo</name>
+>>>>>>> 808c7f9 (added jenkinsfile)
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

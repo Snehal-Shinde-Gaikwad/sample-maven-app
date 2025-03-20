@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.snehal.io.AppTest" time="0.077" tests="1" errors="0" skipped="0" failures="0">
+=======
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.snehal.io.AppTest" time="0.034" tests="1" errors="0" skipped="0" failures="0">
+>>>>>>> 808c7f9 (added jenkinsfile)
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
+<<<<<<< HEAD
     <property name="java.class.path" value="C:\Users\v0819\OneDrive\Desktop\New folder\maven-sample-project\snehalmavenproject\target\test-classes;C:\Users\v0819\OneDrive\Desktop\New folder\maven-sample-project\snehalmavenproject\target\classes;C:\Users\v0819\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\v0819\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+=======
+    <property name="java.class.path" value="C:\Users\v0819\OneDrive\Desktop\New folder\ci-lab\cilabdemo\target\test-classes;C:\Users\v0819\OneDrive\Desktop\New folder\ci-lab\cilabdemo\target\classes;C:\Users\v0819\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\v0819\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+>>>>>>> 808c7f9 (added jenkinsfile)
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +23,15 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+<<<<<<< HEAD
     <property name="sun.java.command" value="C:\Users\v0819\AppData\Local\Temp\surefire11511440853551098703\surefirebooter5527511014532250820.jar C:\Users\v0819\AppData\Local\Temp\surefire11511440853551098703 2025-01-02T00-13-08_310-jvmRun1 surefire988460523242649483tmp surefire_02565897928523055827tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\v0819\OneDrive\Desktop\New folder\maven-sample-project\snehalmavenproject\target\test-classes;C:\Users\v0819\OneDrive\Desktop\New folder\maven-sample-project\snehalmavenproject\target\classes;C:\Users\v0819\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\v0819\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+=======
+    <property name="sun.java.command" value="C:\Users\v0819\AppData\Local\Temp\surefire5547812306639135572\surefirebooter307302841005570304.jar C:\Users\v0819\AppData\Local\Temp\surefire5547812306639135572 2025-03-20T18-24-52_412-jvmRun1 surefire17346167978065468053tmp surefire_017193645353063148262tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\v0819\OneDrive\Desktop\New folder\ci-lab\cilabdemo\target\test-classes;C:\Users\v0819\OneDrive\Desktop\New folder\ci-lab\cilabdemo\target\classes;C:\Users\v0819\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\v0819\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+>>>>>>> 808c7f9 (added jenkinsfile)
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\v0819"/>
     <property name="user.language" value="en"/>
@@ -25,12 +39,20 @@
     <property name="java.version.date" value="2024-07-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
+<<<<<<< HEAD
     <property name="basedir" value="C:\Users\v0819\OneDrive\Desktop\New folder\maven-sample-project\snehalmavenproject"/>
+=======
+    <property name="basedir" value="C:\Users\v0819\OneDrive\Desktop\New folder\ci-lab\cilabdemo"/>
+>>>>>>> 808c7f9 (added jenkinsfile)
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
+<<<<<<< HEAD
     <property name="surefire.real.class.path" value="C:\Users\v0819\AppData\Local\Temp\surefire11511440853551098703\surefirebooter5527511014532250820.jar"/>
+=======
+    <property name="surefire.real.class.path" value="C:\Users\v0819\AppData\Local\Temp\surefire5547812306639135572\surefirebooter307302841005570304.jar"/>
+>>>>>>> 808c7f9 (added jenkinsfile)
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
@@ -44,7 +66,11 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\v0819\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.12"/>
+<<<<<<< HEAD
     <property name="user.dir" value="C:\Users\v0819\OneDrive\Desktop\New folder\maven-sample-project\snehalmavenproject"/>
+=======
+    <property name="user.dir" value="C:\Users\v0819\OneDrive\Desktop\New folder\ci-lab\cilabdemo"/>
+>>>>>>> 808c7f9 (added jenkinsfile)
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -56,5 +82,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
+<<<<<<< HEAD
   <testcase name="shouldAnswerWithTrue" classname="com.snehal.io.AppTest" time="0.003"/>
+=======
+  <testcase name="shouldAnswerWithTrue" classname="com.snehal.io.AppTest" time="0.001"/>
+>>>>>>> 808c7f9 (added jenkinsfile)
 </testsuite>
